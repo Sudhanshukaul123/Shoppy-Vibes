@@ -1,0 +1,306 @@
+[
+
+  {
+    "id": "complete-look-001",
+    "subcategory": "Complete Look",
+    "image": [
+      "src/assets/Categries/Combo.jpg",
+      "src/assets/Categries/Combo-2.avif"
+    ]
+  },
+  {
+    "id": "complete-look-002",
+    "subcategory": "Complete Look",
+    "image": "src/assets/Categries/Combo.jpg"
+  },
+  {
+    "id": "complete-look-003",
+    "subcategory": "Complete Look",
+    "image": "src/assets/Categries/Combo.jpg"
+  },
+  {
+    "id": "complete-look-004",
+    "subcategory": "Complete Look",
+    "image": "src/assets/Categries/Combo.jpg"
+  },
+  {
+    "id": "complete-look-005",
+    "subcategory": "Complete Look",
+    "image": "src/assets/Categries/Combo.jpg"
+  },
+  {
+    "id": "maang-tikka-001",
+    "subcategory": "Maang Tikka",
+    "image": "src/assets/Categries/Maang-Tika.jpg"
+  },
+  {
+    "id": "maang-tikka-002",
+    "subcategory": "Maang Tikka",
+    "image": "src/assets/Categries/Maang-Tika.jpg"
+  },
+  {
+    "id": "maang-tikka-003",
+    "subcategory": "Maang Tikka",
+    "image": "src/assets/Categries/Maang-Tika.jpg"
+  },
+  {
+    "id": "maang-tikka-004",
+    "subcategory": "Maang Tikka",
+    "image": "src/assets/Categries/Maang-Tika.jpg"
+  },
+  {
+    "id": "maang-tikka-005",
+    "subcategory": "Maang Tikka",
+    "image": "src/assets/Categries/Maang-Tika.jpg"
+  },
+  {
+    "id": "earrings-001",
+    "subcategory": "Earrings",
+    "image": "src/assets/Categries/Earrings.jpg"
+  },
+  {
+    "id": "earrings-002",
+    "subcategory": "Earrings",
+    "image": "src/assets/Categries/Earrings.jpg"
+  },
+  {
+    "id": "earrings-003",
+    "subcategory": "Earrings",
+    "image": "src/assets/Categries/Earrings.jpg"
+  },
+  {
+    "id": "earrings-004",
+    "subcategory": "Earrings",
+    "image": "src/assets/Categries/Earrings.jpg"
+  },
+  {
+    "id": "earrings-005",
+    "subcategory": "Earrings",
+    "image": "src/assets/Categries/Earrings.jpg"
+  },
+  {
+    "id": "nose-pin-001",
+    "subcategory": "Nose Pin",
+    "image": "src/assets/Categries/Nosepins.jpg"
+  },
+  {
+    "id": "nose-pin-002",
+    "subcategory": "Nose Pin",
+    "image": "src/assets/Categries/Nosepins.jpg"
+  },
+  {
+    "id": "nose-pin-003",
+    "subcategory": "Nose Pin",
+    "image": "src/assets/Categries/Nosepins.jpg"
+  },
+  {
+    "id": "nose-pin-004",
+    "subcategory": "Nose Pin",
+    "image": "src/assets/Categries/Nosepins.jpg"
+  },
+  {
+    "id": "nose-pin-005",
+    "subcategory": "Nose Pin",
+    "image": "src/assets/Categries/Nosepins.jpg"
+  },
+  {
+    "id": "necklace-sets-001",
+    "subcategory": "Necklace Sets",
+    "image": "src/assets/Categries/Necklace.jpg"
+  },
+  {
+    "id": "necklace-sets-002",
+    "subcategory": "Necklace Sets",
+    "image": "src/assets/Categries/Necklace.jpg"
+  },
+  {
+    "id": "necklace-sets-003",
+    "subcategory": "Necklace Sets",
+    "image": "src/assets/Categries/Necklace.jpg"
+  },
+  {
+    "id": "necklace-sets-004",
+    "subcategory": "Necklace Sets",
+    "image": "src/assets/Categries/Necklace.jpg"
+  },
+  {
+    "id": "necklace-sets-005",
+    "subcategory": "Necklace Sets",
+    "image": "src/assets/Categries/Necklace.jpg"
+  },
+  {
+    "id": "waist-chains-001",
+    "subcategory": "Waist Chains",
+    "image": "src/assets/Categries/Waise-Chains.jpg"
+  },
+  {
+    "id": "waist-chains-002",
+    "subcategory": "Waist Chains",
+    "image": "src/assets/Categries/Waise-Chains.jpg"
+  },
+  {
+    "id": "waist-chains-003",
+    "subcategory": "Waist Chains",
+    "image": "src/assets/Categries/Waise-Chains.jpg"
+  },
+  {
+    "id": "waist-chains-004",
+    "subcategory": "Waist Chains",
+    "image": "src/assets/Categries/Waise-Chains.jpg"
+  },
+  {
+    "id": "waist-chains-005",
+    "subcategory": "Waist Chains",
+    "image": "src/assets/Categries/Waise-Chains.jpg"
+  },
+  {
+    "id": "armlets-001",
+    "subcategory": "Armlets",
+    "image": "src/assets/Categries/Armlets.jpg"
+  },
+  {
+    "id": "armlets-002",
+    "subcategory": "Armlets",
+    "image": "src/assets/Categries/Armlets.jpg"
+  },
+  {
+    "id": "armlets-003",
+    "subcategory": "Armlets",
+    "image": "src/assets/Categries/Armlets.jpg"
+  },
+  {
+    "id": "armlets-004",
+    "subcategory": "Armlets",
+    "image": "src/assets/Categries/Armlets.jpg"
+  },
+  {
+    "id": "armlets-005",
+    "subcategory": "Armlets",
+    "image": "src/assets/Categries/Armlets.jpg"
+  },
+  {
+    "id": "bracelet-001",
+    "subcategory": "Bracelets & Bangles",
+    "image": "src/assets/Categries/Brasclets.jpg"
+  },
+  {
+    "id": "bracelet-002",
+    "subcategory": "Bracelets & Bangles",
+    "image": "src/assets/Categries/Brasclets.jpg"
+  },
+  {
+    "id": "bracelet-003",
+    "subcategory": "Bracelets & Bangles",
+    "image": "src/assets/Categries/Brasclets.jpg"
+  },
+  {
+    "id": "bracelet-004",
+    "subcategory": "Bracelets & Bangles",
+    "image": "src/assets/Categries/Brasclets.jpg"
+  },
+  {
+    "id": "bracelet-005",
+    "subcategory": "Bracelets & Bangles",
+    "image": "src/assets/Categries/Brasclets.jpg"
+  },
+  {
+    "id": "rings-001",
+    "subcategory": "Rings",
+    "image": "src/assets/Categries/Rings.jpg"
+  },
+  {
+    "id": "rings-002",
+    "subcategory": "Rings",
+    "image": "src/assets/Categries/Rings.jpg"
+  },
+  {
+    "id": "rings-003",
+    "subcategory": "Rings",
+    "image": "src/assets/Categries/Rings.jpg"
+  },
+  {
+    "id": "rings-004",
+    "subcategory": "Rings",
+    "image": "src/assets/Categries/Rings.jpg"
+  },
+  {
+    "id": "rings-005",
+    "subcategory": "Rings",
+    "image": "src/assets/Categries/Rings.jpg"
+  },
+  {
+    "id": "anklets-001",
+    "subcategory": "Anklets",
+    "image": "src/assets/Products/Anklets/Anklets.jpg"
+  },
+  {
+    "id": "anklets-002",
+    "subcategory": "Anklets",
+    "image": "src/assets/Products/Anklets/Anklets.jpg"
+  },
+  {
+    "id": "anklets-003",
+    "subcategory": "Anklets",
+    "image": "src/assets/Products/Anklets/Anklets.jpg"
+  },
+  {
+    "id": "anklets-004",
+    "subcategory": "Anklets",
+    "image": "src/assets/Products/Anklets/Anklets.jpg"
+  },
+  {
+    "id": "anklets-005",
+    "subcategory": "Anklets",
+    "image": "src/assets/Products/Anklets/Anklets.jpg"
+  },
+  {
+    "id": "foot-charms-001",
+    "subcategory": "Foot Charms",
+    "image": "src/assets/Categries/Foot-Charms.jpg"
+  },
+  {
+    "id": "foot-charms-002",
+    "subcategory": "Foot Charms",
+    "image": "src/assets/Categries/Foot-Charms.jpg"
+  },
+  {
+    "id": "foot-charms-003",
+    "subcategory": "Foot Charms",
+    "image": "src/assets/Categries/Foot-Charms.jpg"
+  },
+  {
+    "id": "foot-charms-004",
+    "subcategory": "Foot Charms",
+    "image": "src/assets/Categries/Foot-Charms.jpg"
+  },
+  {
+    "id": "foot-charms-005",
+    "subcategory": "Foot Charms",
+    "image": "src/assets/Categries/Foot-Charms.jpg"
+  },
+  {
+    "id": "royal-combos-001",
+    "subcategory": "Royal Combos",
+    "image": "src/assets/Categries/Royal Offers.jpg"
+  },
+  {
+    "id": "royal-combos-002",
+    "subcategory": "Royal Combos",
+    "image": "src/assets/Categries/Royal Offers.jpg"
+  },
+  {
+    "id": "royal-combos-003",
+    "subcategory": "Royal Combos",
+    "image": "src/assets/Categries/Royal Offers.jpg"
+  },
+  {
+    "id": "royal-combos-004",
+    "subcategory": "Royal Combos",
+    "image": "src/assets/Categries/Royal Offers.jpg"
+  },
+  {
+    "id": "royal-combos-005",
+    "subcategory": "Royal Combos",
+    "image": "src/assets/Categries/Royal Offers.jpg"
+  }
+]
