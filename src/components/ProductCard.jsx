@@ -1,12 +1,13 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import Popup from "./MainPopUp";
-import qrImage from "../assets/Utils/QR-Code.jpg";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 
 const ProductCard = ({ image }) => {
   const [showPopup, setShowPopup] = useState(false);
+  const qrImage = "/assets/Utils/QR-Code.jpg";
+
 
   const images = Array.isArray(image) ? image : [image]; // convert to array if not already
 

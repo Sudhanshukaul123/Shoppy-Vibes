@@ -1,7 +1,8 @@
 import SubCatogryGrid from "../components/SubCatogryGrid";
-import BannerImage from "../assets/Utils/Banner.webp";
 
 const Home = () => {
+  const BannerImage = "/assets/Utils/Banner.webp";
+
   return (
     <div className="bg-[#ffefe0] min-h-screen overflow-x-hidden">
       {/* Full Width Hero Banner WITH spacing */}

@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import qrImage from "../assets/Utils/QR-Code.jpg";
 import { X, Download, CheckCircle, Check, ArrowRight } from "lucide-react";
 import { siteConfig } from "../config/siteConfig";
 import { FaWhatsapp } from "react-icons/fa";
@@ -7,6 +6,7 @@ import { RedirectToWhatsAppToast } from "../components/UtilFunctions";
 // ...imports stay same
 
 const Popup = ({ isOpen, onClose, productImages = [] }) => {
+  const qrImage = "/assets/Utils/QR-Code.jpg";
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [animationDirection, setAnimationDirection] = useState("next");
   const [isDownloaded, setIsDownloaded] = useState(false);

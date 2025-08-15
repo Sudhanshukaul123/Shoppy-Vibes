@@ -3,84 +3,84 @@
     "name": "Complete Look",
     "description": "A full set of elegance — from head to toe.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Royal Offers.jpg",
+    "imageUrl": "assets/Categries/Royal Offers.jpg",
     "href": "complete-look"
   },
   {
     "name": "Maang Tikka",
     "description": "Crown your charm with dazzling maang tikkas.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Maang-Tika.jpg",
+    "imageUrl": "assets/Categries/Maang-Tika.jpg",
     "href": "maang-tika"
   },
   {
     "name": "Earrings",
     "description": "Let your ears do the talking — royal & radiant.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Earrings.jpg",
+    "imageUrl": "assets/Categries/Earrings.jpg",
     "href": "earrings"
   },
   {
     "name": "Nose Pin",
     "description": "Delicate nose pins that steal the spotlight.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Nosepins.jpg",
+    "imageUrl": "assets/Categries/Nosepins.jpg",
     "href": "nose-pin"
   },
   {
     "name": "Necklace Sets",
     "description": "Statement neckpieces that rule the neckline.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Necklace.jpg",
+    "imageUrl": "assets/Categries/Necklace.jpg",
     "href": "necklace"
   },
   {
     "name": "Waist Chains",
     "description": "Drape your waist with luxury and grace.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Waise-Chains.jpg",
+    "imageUrl": "assets/Categries/Waise-Chains.jpg",
     "href": "waist-chains"
   },
   {
     "name": "Armlets",
     "description": "Traditional glam wrapped around your arms.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Armlets.jpg",
+    "imageUrl": "assets/Categries/Armlets.jpg",
     "href": "armlets"
   },
   {
     "name": "Bracelets & Bangles",
     "description": "Chic on the wrists, loud in style.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Brasclets.jpg",
+    "imageUrl": "assets/Categries/Brasclets.jpg",
     "href": "bracelets"
   },
   {
     "name": "Rings",
     "description": "Crafted to sparkle on every finger.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Rings.jpg",
+    "imageUrl": "assets/Categries/Rings.jpg",
     "href": "rings"
   },
   {
     "name": "Anklets",
     "description": "Let your steps jingle with elegance.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Anklets.jpg",
+    "imageUrl": "assets/Categries/Anklets.jpg",
     "href": "anklets"
   },
   {
     "name": "Foot Charms",
     "description": "Adorn your feet with royalty.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Foot-Charms.jpg",
+    "imageUrl": "assets/Categries/Foot-Charms.jpg",
     "href": "foot-charms"
   },
   {
     "name": "Royal Combos",
     "description": "Curated sets for the queen in you.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Combo.jpg",
+    "imageUrl": "assets/Categries/Combo.jpg",
     "href": "royal-combos"
   }
 ]

@@ -16,10 +16,12 @@ import {
   CreditCard,
   Truck,
 } from "lucide-react";
-import FullLogo from "../assets/Utils/Full-Logo.jpg";
-import FullLogoPng from "../assets/Utils/Full-Logo-png.png";
-import MinLogo from "../assets/Utils/Mini-Logo.png";
-import MinLogoPng from "../assets/Utils/Mini-Logo-png.png";
+
+
+const FullLogo = "/assets/Utils/Full-Logo.jpg";
+const FullLogoPng = "/assets/Utils/Full-Logo-png.png";
+const MinLogo = "/assets/Utils/Mini-Logo.png";
+const MinLogoPng = "/assets/Utils/Mini-Logo-png.png";
 
 export const siteConfig = {
   companyName: "Shoppy Vibes",
