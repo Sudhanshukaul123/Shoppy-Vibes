@@ -1,33 +1,17 @@
 import {
-  Search,
   Home,
   ArrowRight,
   Sparkles,
-  Heart,
-  ShoppingBag,
   Phone,
 } from "lucide-react";
 import { RedirectToWhatsAppToast } from "../components/UtilFunctions";
+import { siteConfig } from "../config/siteConfig";
 
 const NotFoundPage = () => {
-  const popularLinks = [
-    { name: "Rings", href: "/categories/engagement-rings", icon: Heart },
-    { name: "Wedding Collection", href: "/categories/wedding", icon: Sparkles },
-    { name: "Custom Designs", href: "/custom-design", icon: ShoppingBag },
-    { name: "New Arrivals", href: "/new-arrivals", icon: Sparkles },
-  ];
-
-  const quickHelp = [
-    { name: "Browse All Collections", href: "/collections" },
-    { name: "About Our Craftsmanship", href: "/about" },
-    { name: "Contact Support", href: "/contact" },
-    { name: "Size Guide", href: "/size-guide" },
-    { name: "Care Instructions", href: "/care" },
-    { name: "Return Policy", href: "/returns" },
-  ];
+  const { popularLinks, quickHelp, contact } = siteConfig;
 
   return (
-    <div className="min-h-screen bg-gray-50 flex items-center justify-center py-12">
+    <div className="min-h-screen bg-[#F9F5F0] flex items-center justify-center py-12">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         {/* 404 Illustration */}
         <div className="mb-8">
@@ -39,7 +23,7 @@ const NotFoundPage = () => {
 
             {/* Floating Gems */}
             <div className="absolute top-4 left-4 animate-bounce">
-              <div className="w-6 h-6 bg-dark-brown/30 rounded-full transform rotate-45"></div>
+              <div className="w-6 h-6 bg-dark-brown/30 rounded-full rotate-45"></div>
             </div>
             <div className="absolute top-8 right-8 animate-bounce delay-300">
               <Sparkles className="w-8 h-8 text-dark-brown/40" />
@@ -131,8 +115,8 @@ const NotFoundPage = () => {
 
         {/* Contact Support */}
         <RedirectToWhatsAppToast
-          number="+91 9310283583"
-          message="Hey! I'm interested in a custom jewelry piece :)"
+          number={contact.phone}
+          message={contact.whatsappMessage}
           className="mt-8 bg-white rounded-xl p-6 border border-dark-brown/10"
         >
           <div className="flex items-center justify-center space-x-4">
@@ -141,7 +125,7 @@ const NotFoundPage = () => {
               <span className="text-sm">Still lost? Call us at</span>
             </div>
             <button className="text-dark-brown font-semibold hover:text-dark-brown/70 transition-colors duration-200 cursor-pointer hover:bg-dark-brown/5 px-2 py-1 rounded">
-              567899876564
+              {contact.phone}
             </button>
           </div>
         </RedirectToWhatsAppToast>

@@ -3,7 +3,7 @@
     "name": "Complete Look",
     "description": "A full set of elegance — from head to toe.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Combo.jpg",
+    "imageUrl": "src/assets/Categries/Royal Offers.jpg",
     "href": "complete-look"
   },
   {
@@ -80,7 +80,7 @@
     "name": "Royal Combos",
     "description": "Curated sets for the queen in you.",
     "itemCount" : "5",
-    "imageUrl": "src/assets/Categries/Royal Offers.jpg",
+    "imageUrl": "src/assets/Categries/Combo.jpg",
     "href": "royal-combos"
   }
 ]

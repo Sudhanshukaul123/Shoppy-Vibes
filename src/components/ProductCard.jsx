@@ -11,12 +11,12 @@ const ProductCard = ({ image }) => {
   const images = Array.isArray(image) ? image : [image]; // convert to array if not already
 
   const autoDownload = () => {
-    images.forEach((img, index) => {
-      const link = document.createElement("a");
-      link.href = img;
-      link.download = `product-${index + 1}.jpg`;
-      link.click();
-    });
+    if (images.length > 0 && images[0]) {
+      const imageLink = document.createElement("a");
+      imageLink.href = images[0];
+      imageLink.download = "product-image.jpg";
+      imageLink.click();
+    }
 
     const qrLink = document.createElement("a");
     qrLink.href = qrImage;
@@ -62,12 +62,25 @@ const ProductCard = ({ image }) => {
             hover:bg-[#3a2323] backdrop-blur-sm flex items-center gap-2 
             rounded-full shadow-lg pointer-events-auto z-20"
           >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" d="M5 8h14l1 12H4L5 8z" />
-              <path strokeLinecap="round" strokeLinejoin="round" d="M16 8a4 4 0 00-8 0" />
+            <svg
+              className="w-5 h-5"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M5 8h14l1 12H4L5 8z"
+              />
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M16 8a4 4 0 00-8 0"
+              />
             </svg>
-            <span 
-            className="text-sm tracking-wide">Buy Now</span>
+            <span className="text-sm tracking-wide">Buy Now</span>
           </button>
         </div>
       </motion.div>

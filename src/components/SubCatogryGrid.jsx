@@ -1,7 +1,6 @@
 import { ArrowRight, Sparkles } from "lucide-react";
 import categories from "../data/subcategories.json";
 import SubcategoryCard from "../components/SubCatogry";
-import Popup from "./MainPopUp";
 
 const SubCatogryGrid = () => {
   return (
